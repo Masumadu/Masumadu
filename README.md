@@ -19,11 +19,11 @@ Masumadu/Masumadu is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=masumadu&show_icons=true&theme=radical" />
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=masumadu&show_icons=true&theme=radical" />-->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumadu&langs_count=8" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumadu&langs_count=8" />  
 
-# __ 
+#
 
 <code><img alt="C#" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></code>
 <code><img alt="C#" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></code>
